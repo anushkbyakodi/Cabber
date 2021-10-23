@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Interface.IFace1"/>
+    <fullyQualifiedTypeName name="Unit2.Showable.Show"/>
+    <fullyQualifiedTypeName name="Unit2.Showable.Able"/>
+    <fullyQualifiedTypeName name="Unit2.Showable.Show.Show_1"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+</qualifiedTypeNameHistroy>

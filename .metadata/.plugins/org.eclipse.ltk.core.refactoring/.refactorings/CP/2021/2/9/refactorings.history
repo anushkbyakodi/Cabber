@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Frame1.java&apos; to &apos;Project3/src/windows&apos;&#x0D;&#x0A;- Original project: &apos;CP&apos;&#x0D;&#x0A;- Destination element: &apos;Project3/src/windows&apos;&#x0D;&#x0A;- Original element: &apos;windows.Frame1.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=Project3/src&lt;windows" element1="/src&lt;windows{Frame1.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1614312364644" units="1" version="1.0"/>
+</session>
