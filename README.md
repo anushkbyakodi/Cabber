@@ -17,43 +17,51 @@ Most of the Big Players in the Cab Booking Industry have raised a bar by extreme
 *	If a driver is already assigned to a ride, then the subsequent rides will be assigned to other drivers
 
 ### Design Patterns:
-in the project we have identified and implemented two design patterns.
+In the project we have identified and implemented two design patterns.
 1. Singleton
 2. Factory
+
 
 ### Class Diagram
 <p align = "center">
 <img src = "Design/class-dgm.jpg" style="width:600px;"/>
 </p>
 
+## Requirements
+1. Java Development Kit >=15.0
+2. Eclipse
+3. Window Builder Plug-in 
+
 ## GUI Images
-1.	Main page Login/Signup
+1. Main page Login/Signup
 <p align = "center">
 <img src = "Design/login.png">
 </p>
 
-2.	Customer Sign-up
+2. Customer Sign-up
 <p align = "center">
 <img src = "Design/Cust-signup.jpg">
 </p>
 
-3.	Driver Signup
+3. Driver Signup
 <p align = "center">
 <img src = "Design/Driver-signup.jpg">
 </p>
 
-4	Customer Account Details
- <p align = "center">
+4. Customer Account Details
+<p align = "center">
 <img src = "Design/cust-acct.jpg">
 </p>
 
-5.	Customer Book Ride
+5. Customer Book Ride
 <p align = "center">
 <img src = "Design/book.jpg">
 </p>
 
 
-6.	Rider Log
+6. Rider Log
 <p align = "center">
 <img src = "Design/rider-log.jpg">
 </p>
+
+### Refer to project report for further details regarding design patterns and classes used.
